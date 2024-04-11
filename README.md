@@ -29,8 +29,6 @@
  - 👨‍🎓 Learning Ansible and AWS cloud.
    
  - 💘 Likes IT, politics and tasty food.
-
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
  
  - 😋 Loves to learn new things.
 
